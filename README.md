@@ -6,8 +6,8 @@ It can download from Ubuntu store or install directly in Terminal
 
 #  1a - The terminal way
 
-$ sudo add-apt-repository universe
-$ sudo apt install gnome-tweak-tool
+$ `sudo add-apt-repository universe`
+$ `sudo apt install gnome-tweak-tool`
 
 
 Run this commands on terminal
