@@ -94,5 +94,36 @@ $ `mkdir .themes`
 
 $ `mkdir .icons`
 
-# 7 - Put the Theme folder in Themes And Put the Icons in Icon folder
+# 7 - Download Themes and Icons
 
+You can download Icons and Themes from here
+
+Themes
+
+`https://www.gnome-look.org/`
+
+Icons
+
+`https://www.gnome-look.org/browse/cat/132/order/latest/`
+
+Shell themes
+
+`https://www.gnome-look.org/browse/cat/134/`
+
+Login screen
+
+`https://www.gnome-look.org/browse/cat/131/`
+
+OR
+
+Themes And Icons are uploaded in Zip formate. Extract and place itin to the folders
+
+here `Mojave-dark-theme.tar(1).xz` is put in `.themes` folder. It incluse shell theme
+
+here `Mojave-Cursors-MOD-icons.zip` for cursor pack and `Mojave-circle icons-.tar.xz` for icon pack. These two are placed in `.icons` folder
+
+# 8 - Put the Theme folder in Themes And Put the Icons in Icon folder
+
+Put themes on `.themes` folder &
+
+Put icons on `.icons` folder
