@@ -116,7 +116,7 @@ Login screen
 
 OR
 
-Themes And Icons are uploaded in Zip formate. Extract and place itin to the folders
+Themes And Icons are uploaded in Zip formate. Extract and place it into the folders
 
 here `Mojave-dark-theme.tar(1).xz` is put in `.themes` folder. It incluse shell theme
 
@@ -127,3 +127,22 @@ here `Mojave-Cursors-MOD-icons.zip` for cursor pack and `Mojave-circle icons-.ta
 Put themes on `.themes` folder &
 
 Put icons on `.icons` folder
+
+# 9 - Open gnome-tweak-tool and apply 
+
+Open Gnome-tweak-tool. Named Tweaks in app list
+
+Select the following in Appearance
+
+In `Theme` select `Mojave-dark-theme`
+
+In `Cursor` select `Mojave-Cursors-MOD-icons`
+
+In `Icons` select `Mojave-circle icons`
+
+In `shell` select `Mojave-dark-theme`
+
+Enable all downloaded extensions in Extensions tab.
+In Extensions open Dash-to-dock settings select Dock on Bottom position
+
+In top bar tab enable Battery Percentage
