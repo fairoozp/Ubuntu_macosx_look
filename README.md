@@ -85,3 +85,14 @@ you can find it from here
 
 `https://extensions.gnome.org/extension/750/openweather/`
 
+# 6 - Create Folder
+
+You need to create `.themes` and `.icons` Folders in `home` folder
+To create Run those commands in terminal
+
+$ `mkdir .themes`
+
+$ `mkdir .icons`
+
+# 7 - Put the Theme folder in Themes And Put the Icons in Icon folder
+
