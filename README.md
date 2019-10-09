@@ -150,9 +150,10 @@ In Extensions open Dash-to-dock settings select Dock on Bottom position
 In top bar tab enable Battery Percentage
 
 ## 10 - Set Font
-To download font Go to
 
-move all Fonts in to: "~/.local/share/fonts" or "/usr/share/fonts"
+Font added here. Download and
+
+move all Fonts in to: "`~/.local/share/fonts" or "/usr/share/fonts`"
 
 ## 11 - Lock screen
 
@@ -190,7 +191,7 @@ To download go to
 
 https://www.gnome-look.org/p/1326269/
 
-## 12 - Restart the shell 
+## 13 - Restart the shell 
 
 Press the following key
 
