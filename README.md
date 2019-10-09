@@ -149,7 +149,12 @@ In Extensions open Dash-to-dock settings select Dock on Bottom position
 
 In top bar tab enable Battery Percentage
 
-## 10 - Lock screen
+## 10 - Set Font
+To download font Go to
+
+move all Fonts in to: "~/.local/share/fonts" or "/usr/share/fonts"
+
+## 11 - Lock screen
 
 This is theme nearly looks like macOS lockscreen , with script which can set wallpaper for your desktop and simultaneously set same wallpaper on lock screen and login screen with blur effect like on macOS.
 
@@ -157,7 +162,7 @@ To get this Go To
 
 https://www.gnome-look.org/p/1207015/
 
-## 11 - SLiM Display Manager
+## 12 - SLiM Display Manager
 
 To setting up.
 
@@ -181,6 +186,9 @@ To setting up.
 
 Note: You can not use the cursor in the SLiM Display Manager; so if you want to "shutdown or reboot" in the login screen, you need to type "halt" or "reboot" in the username box and then write the password, and it's done, so the icons below the screen are just decoration to make more similar to the macOS login screen.
 
+To download go to
+
+https://www.gnome-look.org/p/1326269/
 
 ## 12 - Restart the shell 
 
