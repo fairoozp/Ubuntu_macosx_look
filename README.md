@@ -149,7 +149,15 @@ In Extensions open Dash-to-dock settings select Dock on Bottom position
 
 In top bar tab enable Battery Percentage
 
-## 10 - Restart the shell 
+## 10 - Lock screen
+
+This is theme nearly looks like macOS lockscreen , with script which can set wallpaper for your desktop and simultaneously set same wallpaper on lock screen and login screen with blur effect like on macOS.
+
+To get this Go To
+
+https://www.gnome-look.org/p/1207015/
+
+## 11 - Restart the shell 
 
 Press the following key
 
