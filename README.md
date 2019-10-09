@@ -157,7 +157,32 @@ To get this Go To
 
 https://www.gnome-look.org/p/1207015/
 
-## 11 - Restart the shell 
+## 11 - SLiM Display Manager
+
+To setting up.
+
+	- Install SLiM Display Manager. SLiM is in all repositories of the most used distros.
+
+	- Choose as your default Display Manager running the command: "sudo dpkg-reconfigure slim"
+		
+	- Extract and move the  folder of Mojave theme to the directory "themes" on: "/user/share/slim/themes"
+
+	- Run "sudo gedit /etc/slim.conf" and press "ctrl + f", type "current_theme", and change the name for "macOSMojave".
+           (**use the text editor of your preference in your distro**)
+
+	- Install the fonts to apply to the theme.
+
+	- If you want to change the background, just rename the image that you like as "background" 
+	   and move to the folder theme in "/user/share/slim/themes". The supported images format are "jpg" and "png".
+
+	- To change Desktop Sessions just press "F1"
+
+	- If you can take a screenshot just press the key F11
+
+Note: You can not use the cursor in the SLiM Display Manager; so if you want to "shutdown or reboot" in the login screen, you need to type "halt" or "reboot" in the username box and then write the password, and it's done, so the icons below the screen are just decoration to make more similar to the macOS login screen.
+
+
+## 12 - Restart the shell 
 
 Press the following key
 
