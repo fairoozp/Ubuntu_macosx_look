@@ -201,4 +201,8 @@ OR
 
 Restart the PC
 
+## 14 - Set mac walpaper 
+
+Walpaper uploaded in zip formate
+
 # You are Done
